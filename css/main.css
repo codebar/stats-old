@@ -47,6 +47,9 @@ blockquote {
   height: 70px;
 }
 
+#donate {
+  border: 3px solid #4bafff;
+}
 
 
 /*---------- star rating ----------*/
